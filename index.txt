@@ -1,3 +1,6 @@
 iniciando o projeto em equipe...
 definição do requisitos do projeto...
 link de acesso a página contatos
+1- Fulano
+2- Ciclano
+3- Beltrano
